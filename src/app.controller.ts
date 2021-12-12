@@ -12,6 +12,6 @@ export class AppController {
 
   @Get('/mani')
   sayHi(): string {
-    return 'Hi Mani';
+    return 'Hi Mani to Nest Js';
   }
 }
